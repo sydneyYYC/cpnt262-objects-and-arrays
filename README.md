@@ -1,10 +1,10 @@
 # CPNT262 Object and Arrays
 # Sydney Bruce
-## git hub repo
+## [Live Page](https://sydneyyyc.github.io/cpnt262-objects-and-arrays/)
 ## 2023-10-13
 
 
-## Problem Solving - Code Journal
+## Code Journal
 
 Objects Error - not using '' in my object values (making them strings) throws an error b/c it thinks im trying to do something else. 
 note: 'grey is not defined' - js thought i was trying to define grey and wouldn't run my array code. 
